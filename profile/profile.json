@@ -1,0 +1,42 @@
+{
+    "candidate_name": "Akhil Kata",
+    "title_preferences": [
+      "Senior Software Engineer",
+      "Backend Engineer",
+      "Software Engineer",
+      "Data Engineer"
+    ],
+    "skills_must_have": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka"
+    ],
+    "skills_nice_to_have": [
+      "AWS",
+      "GCP",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "locations_preferred": [
+      "Austin, TX",
+      "Dallas, TX",
+      "Remote - US"
+    ],
+    "disliked_locations": [],
+    "min_seniority": "mid",
+    "domains_preferred": [
+      "FinTech",
+      "Healthcare",
+      "Cloud / Infra",
+      "Ad Tech"
+    ],
+    "dealbreakers": [
+      "100% on-site in non-preferred city",
+      "C++ low-level only roles",
+      "No backend work"
+    ]
+  }
